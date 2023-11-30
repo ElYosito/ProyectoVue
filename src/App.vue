@@ -120,7 +120,7 @@ const verTablas = () => {
       <div class="d-flex  justify-content-center">
 
 
-        //v-bind:style
+        <!-- v-bind:style -->
         <h2 class="display-2" id="mensajeDesactivado" :style="{ display: !ocultar ? 'block' : 'none' }">Imagen desactivada
         </h2>
 
